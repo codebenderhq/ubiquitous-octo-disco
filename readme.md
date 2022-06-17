@@ -26,13 +26,27 @@
   </h3> -->
 </div>
 
+## Installation
+
+The Wasmtime CLI can be installed on Linux and macOS with a small install
+script:
+
+```sh
+curl https://wasmtime.dev/install.sh -sSf | bash
+```
+
 
 # Getting started
+
 to start project
 `cargo new <ProjectName>`
 
+
+
 to build run 
 `cargo build --target wasm32-wasi`
+
+
 
 
 executing wasmtime [learn more](https://github.com/bytecodealliance/wasmtime/blob/main/docs/WASI-tutorial.md#executing-in-wasmtime-runtime)
