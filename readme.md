@@ -1,3 +1,31 @@
+<div align="center">
+  <h1><code>Infant Grape</code></h1>
+
+  <p>
+    <strong>A Decentralized Web Node</strong>
+    <!-- <a href="https://webassembly.org/">WebAssembly</a> -->
+  </p>
+
+  <strong>A <a href="https://sauveur.xyz">codebenderhq</a> project</strong>
+
+  <!-- <p>
+    <a href="https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI"><img src="https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg" alt="build status" /></a>
+    <a href="https://bytecodealliance.zulipchat.com/#narrow/stream/217126-wasmtime"><img src="https://img.shields.io/badge/zulip-join_chat-brightgreen.svg" alt="zulip chat" /></a>
+    <img src="https://img.shields.io/badge/rustc-stable+-green.svg" alt="supported rustc stable" />
+    <a href="https://docs.rs/wasmtime"><img src="https://docs.rs/wasmtime/badge.svg" alt="Documentation Status" /></a>
+  </p>
+
+  <h3>
+    <a href="https://bytecodealliance.github.io/wasmtime/">Guide</a>
+    <span> | </span>
+    <a href="https://bytecodealliance.github.io/wasmtime/contributing.html">Contributing</a>
+    <span> | </span>
+    <a href="https://wasmtime.dev/">Website</a>
+    <span> | </span>
+    <a href="https://bytecodealliance.zulipchat.com/#narrow/stream/217126-wasmtime">Chat</a>
+  </h3> -->
+</div>
+
 
 # Getting started
 to start project
