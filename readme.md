@@ -1,9 +1,9 @@
 <div align="center">
-  <h1><code>Infant Grape</code></h1>
+  <h1><code>Grape</code></h1>
 
   <p>
-    <strong>A Decentralized Web Node</strong>
-    <!-- <a href="https://webassembly.org/">WebAssembly</a> -->
+    <strong>A Decentralized Web Node for <a href="https://sauveur.xyz">Sauveur</a> </strong>
+
   </p>
 
   <strong>A <a href="https://sauveur.xyz">codebenderhq</a> project</strong>
