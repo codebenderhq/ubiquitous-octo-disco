@@ -73,21 +73,21 @@ executing wasmer [learn more](https://wasmer.io/)
 
 ## Built On
 ### Core 
-[ ] [Rust](https://doc.rust-lang.org/book/)
-    [ ] [Rust Async](https://rust-lang.github.io/async-book/)
-[ ] [libp2p](https://github.com/libp2p/rust-libp2p)
-    [ ] [examples](https://github.com/libp2p/rust-libp2p/tree/master/examples)
-    [ ] [concept](https://docs.libp2p.io/concepts/)
-    [ ] [spec](https://github.com/libp2p/specs)
-    [ ] [glosarry](https://docs.libp2p.io/reference/glossary/)
-[ ] [ipld](https://ipld.io/)
-    [ ] [ipld-rust](https://ipld.io/libraries/rust/)
-[ ] [web 5](https://developer.tbd.website/projects-index)
+- [ ] [Rust](https://doc.rust-lang.org/book/)
+    - [ ] [Rust Async](https://rust-lang.github.io/async-book/)
+- [ ] [libp2p](https://github.com/libp2p/rust-libp2p)
+    - [ ] [examples](https://github.com/libp2p/rust-libp2p/tree/master/examples)
+    - [ ] [concept](https://docs.libp2p.io/concepts/)
+    - [ ] [spec](https://github.com/libp2p/specs)
+    - [ ] [glosarry](https://docs.libp2p.io/reference/glossary/)
+- [ ] [ipld](https://ipld.io/)
+    - [ ] [ipld-rust](https://ipld.io/libraries/rust/)
+- [ ] [web 5](https://developer.tbd.website/projects-index)
 
 ### Sub
-[ ] [Zero Tier](https://docs.zerotier.com/)
-[ ] [Tokio](https://tokio.rs/)
-[ ] [IPFS](https://github.com/rs-ipfs/rust-ipfs)
+- [ ] [Zero Tier](https://docs.zerotier.com/)
+- [ ] [Tokio](https://tokio.rs/)
+- [ ] [IPFS](https://github.com/rs-ipfs/rust-ipfs)
 
 
 
